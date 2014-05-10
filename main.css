@@ -236,6 +236,8 @@ footer {
     bottom: 0;				/* part of Modern Clean CSS Sticky Footer */
     height: 100px;			/* part of Modern Clean CSS Sticky Footer */
     width: 100%;			/* part of Modern Clean CSS Sticky Footer */
+	text-align: center;
+	vertical-align: middle;
 }
 
 footer ul li {
@@ -246,12 +248,7 @@ footer i {
 	padding: 6px;
 }
 
-#footer-ul {
-	text-align: center;
-	vertical-align: middle;
-}
-
-#footer-ul p {
+footer p {
 	font-weight: bold;
 	margin: 3px;
 }
